@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "half=lower": {
+      "crop": "tutorialmod:block/weed_crop_stage4_bottom"
+    },
+    "half=upper": {
+      "crop": "tutorialmod:block/weed_crop_stage4_top"
+    }
+  }
+}

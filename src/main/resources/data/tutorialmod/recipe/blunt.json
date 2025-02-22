@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:weed"
+    },
+    {
+      "item": "tutorialmod:weed"
+    },
+    {
+      "item": "tutorialmod:weed"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:blunt"
+  }
+}
